@@ -7,3 +7,12 @@ packages:
   gitUrl: https://github.com/AvivSimDS
   gitUsername: AvivSimDS
   gitBranch: main
+services:
+- serviceName: project.isr_avivsim_dada_wt_demo.integrations:HelloWorld
+  packages:
+  - name: ISR_AvivSim_DADA_WT_DEMOProject
+    version: "1.0"
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.1969
