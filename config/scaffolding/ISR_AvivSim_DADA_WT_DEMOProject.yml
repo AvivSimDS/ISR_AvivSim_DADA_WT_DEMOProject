@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ISR_AvivSim_DADA_WT_DEMOProject
+  gitServerName: AvivSim_Github
+  gitUrl: https://github.com/AvivSimDS
+  gitUsername: AvivSimDS
+  gitBranch: main
