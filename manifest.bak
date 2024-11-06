@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="OpenWeatherClient">1.0</value>
+    <value name="PayableTransactions">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">17</value>
+  <value name="build">21</value>
   <null name="description"/>
   <value name="created_date">06-11-2024 10:07:38 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-11-06T16:12:27.350864317Z</value>
+  <value name="lastUpdated">2024-11-06T19:17:58.842290448Z</value>
   <value name="wmProjectId">flc7b32f713e99fa72234412</value>
   <value name="creator">aviv simionovici</value>
 </Values>
