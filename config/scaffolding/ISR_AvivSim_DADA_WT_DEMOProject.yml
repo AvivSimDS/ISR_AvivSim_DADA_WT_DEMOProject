@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/AvivSimDS
   gitUsername: AvivSimDS
   gitBranch: main
+- name: OpenWeatherClient
+  gitServerName: AvivSim_Github
+  gitUrl: https://github.com/rahuldemocenter
+  gitUsername: AvivSimDS
+  gitBranch: main
 services:
 - serviceName: project.isr_avivsim_dada_wt_demo.integrations:HelloWorld
   packages:
